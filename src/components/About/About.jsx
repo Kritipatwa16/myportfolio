@@ -40,7 +40,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-          I’m a passionate Full Stack Developer focused on building dynamic, user-friendly, and scalable web applications. I work across both frontend and backend, combining modern JavaScript frameworks like React with robust backend technologies such as Node.js and Express. I enjoy solving real-world problems through clean code, efficient architectures, and intuitive interfaces.
+          I am an aspiring Full Stack Developer with hands-on experience in building web applications using modern JavaScript technologies. I enjoy working on both frontend and backend development, creating responsive interfaces with React and reliable APIs using Node.js and Express. I’m continuously learning and passionate about building solutions that deliver real value.
           </p>
           {/* Resume Button */}
           <a
